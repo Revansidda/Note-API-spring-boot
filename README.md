@@ -39,4 +39,4 @@ This application is a simple note CRUD operations using MYSQL  and JPA
 
   5.Swagger APIs Documentation
 
-     //localhost:8080/swagger-ui.html
+     localhost:8080/swagger-ui.html
