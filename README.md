@@ -21,6 +21,8 @@ This application is a simple note CRUD operations using MYSQL  and JPA
       The application will start running at http://localhost:8080.
 
 4.Below are the APIs
+
+
      GET /v1/notes
     
     POST /v1/notes
