@@ -5,7 +5,9 @@
 This application is a simple note CRUD operations using MYSQL  and JPA
 # Requirements
 > Java - 1.8
+
 > Maven - 3.x
+
 > Mysql-5.x
 
 # Project Setup
