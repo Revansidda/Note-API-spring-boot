@@ -16,7 +16,8 @@ This application is a simple note CRUD operations using MYSQL  and JPA
        git clone https://github.com/Revansidda/Note-API-spring-boot.git
 
 2.Create Mysql database
-   create database note_crud
+
+  create database note_crud
    
  3.Change mysql username and password as per your installation in application.properties file
       Build and run the application
