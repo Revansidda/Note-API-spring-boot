@@ -35,3 +35,8 @@ This application is a simple note CRUD operations using MYSQL  and JPA
     PUT /v1/notes/{noteId}
     
     DELETE /v1/notes/{noteId}
+
+
+  5.Swagger APIs Documentation
+
+     //localhost:8080/swagger-ui.html
